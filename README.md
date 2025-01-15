@@ -81,3 +81,8 @@ The **Smart Misfuel Detection System** is designed to prevent misfueling inciden
 - Enable data logging for analytics.
 
 ---
+License
+This project is licensed under the Apache License 2.0.
+.
+
+---
