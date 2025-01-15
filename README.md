@@ -1,8 +1,6 @@
 ![PIC 2](https://github.com/user-attachments/assets/82a8e7d4-b066-4d19-bccd-b11229767175)
 ![PIC 1](https://github.com/user-attachments/assets/006f082b-4165-4e4c-8eee-a892f957e79f)
-Here’s the updated README file idea with the title **"Smart Misfuel Detection System"**:
 
----
 
 # **Smart Misfuel Detection System**
 
